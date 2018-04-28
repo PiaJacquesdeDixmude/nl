@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "WEBSITE2018-ndls",
-    "currentPage": "index.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1360,7 +1360,7 @@
                 "title": ""
               },
               {
-                "active": false,
+                "active": true,
                 "image": "@PROJECT_PATH@/assets/images/money.gif",
                 "alt": "",
                 "title": ""
@@ -1372,7 +1372,7 @@
                 "title": ""
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/mamma-mia.gif",
                 "alt": "",
                 "title": ""
